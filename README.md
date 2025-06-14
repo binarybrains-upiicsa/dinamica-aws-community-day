@@ -1,4 +1,4 @@
-# DINAMICA AWS COMMUNITY DAY
+# DINAMICA AWS COMMUNITY DAY 💙
 
 ## Gana una playera siguiendo las instrucciones
 
